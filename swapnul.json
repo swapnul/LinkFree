@@ -1,0 +1,17 @@
+{
+  "name": "Swapnil Srivastava",
+  "type": "personal",
+  "bio": "Quality Engineer | Java | Learner",
+  "links": [
+    {
+      "name": "Let's connect on Twitter",
+      "url": "https://twitter.com/Swapnil__404",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/swapnul",
+      "icon": "FaGithub"
+    },
+  ]
+}
